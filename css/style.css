@@ -1,0 +1,18 @@
+body{
+    background-color:pink;
+    text-align: left;
+}
+p{
+    text-align: center;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+h{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    text-shadow: black;
+}
+li{
+    text-emphasis-color: blue;
+    font-family: monospace;
+}
