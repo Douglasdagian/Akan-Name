@@ -1,5 +1,5 @@
 body{
-    background-color:pink;
+    background-color: rgba(26, 197, 219, 0.747);
     text-align: left;
 }
 p{
@@ -13,6 +13,7 @@ h{
     text-shadow: black;
 }
 li{
-    text-emphasis-color: blue;
+    text-align: justify;
     font-family: monospace;
+    text-size-adjust: large;
 }
