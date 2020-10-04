@@ -12,6 +12,7 @@ Contact:0711747656
 HTML
 CSS
 JAVASCRIPT
+BOOTSTRAP
 
 ## Instructions
 This project can be clone in a local machine
