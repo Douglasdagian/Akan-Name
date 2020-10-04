@@ -3,7 +3,7 @@ body{
     text-align: left;
 }
 p{
-    text-align: center;
+    text-align: justify;
     font-size: large;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -12,8 +12,8 @@ h{
     text-decoration: underline;
     text-shadow: black;
 }
-li{
+.li{
     text-align: justify;
     font-family: monospace;
-    text-size-adjust: large;
+    text-size-adjust: x large;
 }
