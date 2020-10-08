@@ -1,8 +1,8 @@
 body{
-    background-image: url("https://images.pexels.com/photos/628281/pexels-photo-628281.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-image: url("/image/pexels-pixabay-459335.jpg");
     text-align: left;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover ;
 
 }
 p{
