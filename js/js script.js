@@ -10,6 +10,7 @@ function checkName(){
     notify.setFullYear(parseInt(year));
     var d = notify.getDay();
     if(d===0){
+        (alert);
         ("Sunday");
     }else if(d===1){
         ("Monday");
